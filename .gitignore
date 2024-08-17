@@ -1,0 +1,21 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Entornos virtuales
+venv/
+ENV/
+env.bak/
+*.env
+
+# Archivos de configuraciones locales y del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del IDE
+.vscode/
+.idea/
